@@ -1,0 +1,14 @@
+D:\ProjectCode\BusinessReport\BusinessReport\bin\Debug\BusinessReport.exe.config
+D:\ProjectCode\BusinessReport\BusinessReport\bin\Debug\BusinessReport.exe
+D:\ProjectCode\BusinessReport\BusinessReport\bin\Debug\BusinessReport.pdb
+D:\ProjectCode\BusinessReport\BusinessReport\bin\Debug\Common.dll
+D:\ProjectCode\BusinessReport\BusinessReport\bin\Debug\DataBaseEntities.dll
+D:\ProjectCode\BusinessReport\BusinessReport\bin\Debug\DbCommon.dll
+D:\ProjectCode\BusinessReport\BusinessReport\bin\Debug\Excel.dll
+D:\ProjectCode\BusinessReport\BusinessReport\obj\Debug\BusinessReport.frmHuatai.resources
+D:\ProjectCode\BusinessReport\BusinessReport\obj\Debug\BusinessReport.MainForm.resources
+D:\ProjectCode\BusinessReport\BusinessReport\obj\Debug\BusinessReport.Properties.Resources.resources
+D:\ProjectCode\BusinessReport\BusinessReport\obj\Debug\BusinessReport.csproj.GenerateResource.Cache
+D:\ProjectCode\BusinessReport\BusinessReport\obj\Debug\BusinessReport.exe
+D:\ProjectCode\BusinessReport\BusinessReport\obj\Debug\BusinessReport.pdb
+D:\ProjectCode\BusinessReport\BusinessReport\obj\Debug\BusinessReport.csprojResolveAssemblyReference.cache
